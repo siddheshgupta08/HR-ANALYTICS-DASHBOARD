@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard – Power BI Project
 
-## 🧭 1. Project Overview
+## 🧭  Project Overview
 
 Employee attrition is a major challenge for organizations, impacting productivity, team morale, and hiring costs.  
 This project focuses on building an **HR Analytics Dashboard** that helps HR teams identify key factors behind employee attrition and improve workforce performance and retention.
@@ -9,7 +9,7 @@ The dashboard provides insights into demographics, job roles, salary slabs, expe
 
 ---
 
-## 🎯 2. Objective
+## 🎯 Objective
 
 Help an organization improve employee performance and boost retention (reduce attrition) by developing an HR Analytics Dashboard.  
 This dashboard aims to:
@@ -21,7 +21,7 @@ This dashboard aims to:
 
 ---
 
-## 📁 3. Dataset Details
+## 📁 Dataset Details
 
 The dataset contains **1470 employee records** and includes the following key fields:
 
@@ -53,7 +53,7 @@ The dataset contains **1470 employee records** and includes the following key fi
 
 ---
 
-## 🛠️ 4. Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - **Power BI Desktop** – Dashboard creation  
 - **Power Query** – Data cleaning & transformation  
@@ -62,7 +62,7 @@ The dataset contains **1470 employee records** and includes the following key fi
 
 ---
 
-## ❓ 5. Key Business Questions
+## ❓ Key Business Questions
 
 This project aims to answer the following HR analytics questions:
 
@@ -76,7 +76,7 @@ This project aims to answer the following HR analytics questions:
 
 ---
 
-## 🔍 6. Key Insights
+## 🔍 Key Insights
 
 ### 📌 Overall Summary
 - **Total Employees:** 1470  
@@ -118,14 +118,14 @@ Highest attrition seen in:
 
 ---
 
-## 🖼️ 7. Dashboard Preview
+## 🖼️ Dashboard Preview
 
 ![HR ANALYTICS DASHBOARD_page-0001](https://github.com/user-attachments/assets/f8731ce7-a16f-4289-b87f-45dea9c727da)
 
 
 ---
 
-## 📌 8. Project Impact
+## 📌 Project Impact
 
 This dashboard helps HR teams:
 
@@ -137,7 +137,7 @@ This dashboard helps HR teams:
 
 ---
 
-## 🏁 9. Conclusion
+## 🏁 Conclusion
 
 The **HR Analytics Dashboard** successfully identifies the major factors contributing to employee attrition and provides actionable insights for HR departments.  
 By using this dashboard, organizations can:
